@@ -1,0 +1,1 @@
+It is a simple Tic Tac Toe game. It is a manual-playable double-player game. Here consists of 2 players, Player-A and Player-B. By selecting (1-9) numbers players can give input. As general rules, winner will display by computer after a legal win situation.
